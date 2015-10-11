@@ -2,7 +2,7 @@
 Various Search algorithms that uses different heuristics to find optimal path.
 
 For SearchUSA:
-1) The inputs should will be given through the command line.
+1) The inputs will be given through the command line.
    % java SearchUSA searchtype srccityname destcityname
 2) The searchtype should be either astar, greedy, or uniform.
 3) The spelling of srccityname and destcityname must be the as given in usroads.txt. Do NOT change the names from lower case to upper case.
