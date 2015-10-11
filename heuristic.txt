@@ -1,7 +1,5 @@
 %==============================================================================
 %  
-%   Dennis Bahler
-%   CSC 520
 %
 %   Version 2: Use average latitude (pi/0 is a built-in procedure returning 3.141593)
 %   Version 1: Use latitude 45 degrees (pi/4) and cos(pi/4) = 0.707
