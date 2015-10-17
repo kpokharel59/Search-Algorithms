@@ -10,7 +10,7 @@ For SearchUSA:
    of latitude and longitude, which also given in the file. There is a complication in computing straight line distance from longitude and 
    latitude that arises because the earth is roughly a sphere, not a cylinder. heuristic.txt is another file with a header comment indicating
    how the heuristic should work.
-
+#check
 For SearchRomania:
 1) The inputs should will be given through the command line.
    % java SearchUSA searchtype srccityname destcityname
